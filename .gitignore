@@ -2,6 +2,4 @@ node_modules
 logs/
 **/logs/
 .env
-.vercel
-nn.tslearnwithredwan-dbcdf7eeee3b.json
-learnwithredwan-dbcdf7eeee3b.json
+.vercel  

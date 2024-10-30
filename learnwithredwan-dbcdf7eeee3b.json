@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "learnwithredwan",
+  "private_key_id": "dbcdf7eeee3bd70fac68a1b12bdf03a678ce112f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDbXuqEMUPrZb0T\nrmknNoRhBWSfmptLoDwJ+Am/RvadrYD7AeBn8kdyx0zD9nPCy4TUj1F7DobKYOe2\ngTWOGv0mv48iiAcuL8Ntyf7dZSk/wIhU7O0ImjNCJO6wgPjOPuFdIyfQ/lVdPMsa\n1asVoivF+KzKCGVeIbK7SmwNGzfnhQvQYncRjiuEvkC0wW98nI18hpsP4mN7GeTG\nQWkODi7EpzboTfh4Alr3Z5FhRakshz9SHU+fd52s5x43ZkopietpCMc947L0tTmh\nqatv63Hd8+EL+tHaywYwLNm2HBzzKrriaWczrItvhpL/zbpjQraXR9qmuWFOQknY\n/hVmkwxDAgMBAAECgf9xMm+d+jRew6DnBv8IicxfEOlbclJ9AH7HcumUsImRbUM6\nqT08ZhV4Pl9Ev2eWNm6hQIZLExpHhyAKJm8vZPEJJzY06C+ZJaX/Te+Cgf2tZ/jx\nc1B2bLUGhjtxck7w6uf5QRExE6X49rKkP9CIctmKAa5a+JO8fw1ul6vDfftBYfFx\nmmtADuDgo6OGWL0PbjjoELqfeCUR1dr5YeCxthvz87VHuohaw4p80qcNxVWzTpT0\noufOSa2xuF91P1bEZTAwhtekaQT4toII+svj1bcuNVLd4EYIaWJ+VFjr7gIWY+KA\nQZtxpzfOlyJicekDxPZj7kpJ0HMT0h3fieGLnJUCgYEA7Wldg58+lyILJxYDgbxd\nHZd5gX3Rb0i0iVPGQvjf3dAYElFKsOTldiIFkYZBse/4KAfkr2CBW5B7Th6JX82H\nFo523N1i+b2z2VYQVMvkeqgZwmZY6xtPQea5mfSUWt7z7+a8AaWk8A1Jk1wpZLrF\nIKxwb1OaxBbluLz9IggcB70CgYEA7IvxpNtkEOzW65E0aDboptwpIYnuIj5zEWZk\nkX1EyiUVIQoN6c/G29HFVlUPOlgwv5MNSrOjWG6Xet7hL1JBUa+E3p2jrjQ6x0zJ\nJOUUttdtyBH2grvUfVlQSYpYBwkrzPAp/Us/fjK+LZ3eSeo5zWuIY7rKPbFQkCbx\nV5dCo/8CgYEAiFEdjrva9nBnsvOi49VCKgGVlNKndJxsfQWLK103PWeEys++cT+c\nuW3jgKF0CzVcaa/OkRx6ahbVlg9WlZmvXTZD7aF4eSmBoOMX0XiZIgxvbf3SRHyT\nz6UpIMsce+jUbAUyIkf4IpWej2w1oE7VbWNV07ZPgRQcpyxstCOv5IkCgYEAmYcb\nB4z9nZ6av7o28Yzx45rxdzs2vDMcLCbxDxznEOyQkikcbqzUvMeh9S6v+4ZR3YVs\nExgU5MiiuLUAIt6YVpQ9AN//5IkxvTkxNCkbELEyJ7DA9olCmTjmy1RnXemt7A3U\nsvmr9BSrKqBULlU/vvwUQeZybSgwyd78tYUPU7ECgYB6i8lAJ3nZ82qh78kGvHUz\n04QPHKSDGvUyoX7zoEY1X85wCsyhb1lX2LNsyCL92sKyVhSL8RjIE8mVQc+xEdEb\nkT69JujZfKDCxfuLjfjtG678DOCgRFGMYnocCMjQwfVpuAaitC75m1zpNEi9B2mb\nG+1gEl/AxCmQXISTbbb2aw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "spark-tech@learnwithredwan.iam.gserviceaccount.com",
+  "client_id": "105613025249535809298",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spark-tech%40learnwithredwan.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
